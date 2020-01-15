@@ -1,3 +1,15 @@
-#main {
-  background-image:
+.main {
+  background-image: url(paper.png);
+  text-align: center;
+}
+
+.main h2 {
+  color: blue;
+}
+
+footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  left: 800px;
 }
