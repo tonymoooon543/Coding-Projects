@@ -18,19 +18,24 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
     <br>
-      <audio id="audio">
-        <source src="audio1.mp3" type="audio/mpeg">
-      </audio>
-      <button type="button" onclick="playAudio()">Play</button>
-      <button type="button" onlcik="pauseAudio()">Pause</button>
-      <p id="nowPlaying"></p>
-    <br>
+    <audio id="myAudio">
+      <source src="audio1.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <button onclick="document.getElementById('myAudio').play()" type="button">Play Audio</button>
+    <button onclick="document.getElementById('myAudio').pause()" type="button">Pause Audio</button>
+    <p id="nowPlaying"></p>
+    <button type="button" onclick="promptInput">Name</button>
+    <p id='name'></p>
     <footer>
       <address class="footer">
         <button type="button" name="email">
           <a href="mailto:tonymoooon543@gmail.com?subject=feedback">email me</a>
         </button>
-        <p>Mail: PO Box 251, Iowa City, Iowa, 52245, USA</p>
+        <p>Mail: 1106 Hotz Ave, Iowa City, Iowa, 52245, USA</p>
+        <details open>
+
+        </details>
       </address>
     </footer>
   </body>
