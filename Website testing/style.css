@@ -13,3 +13,9 @@ footer {
   bottom: 0px;
   left: 800px;
 }
+
+.date {
+  background-color: blue;
+  color: white;
+  border-radius: 30%;
+}
