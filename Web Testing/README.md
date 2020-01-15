@@ -1,1 +1,0 @@
-This is the place I put things related to HTML, CSS, JS and of course Python Flask. Flask is  a webframe work made for Python. Here is the Github for it, [Flask Github](https://github.com/pallets/flask)
