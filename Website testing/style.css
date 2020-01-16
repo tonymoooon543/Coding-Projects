@@ -19,3 +19,8 @@ footer {
   color: white;
   border-radius: 30%;
 }
+
+.footerbutton {
+  text-decoration: none;
+  border-radius: 40%;
+}
