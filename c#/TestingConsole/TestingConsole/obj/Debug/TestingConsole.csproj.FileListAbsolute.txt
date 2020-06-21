@@ -1,7 +1,0 @@
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\bin\Debug\TestingConsole.exe.config
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\bin\Debug\TestingConsole.exe
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\bin\Debug\TestingConsole.pdb
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\obj\Debug\TestingConsole.csprojAssemblyReference.cache
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\obj\Debug\TestingConsole.csproj.CoreCompileInputs.cache
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\obj\Debug\TestingConsole.exe
-C:\Users\wayne\Desktop\Jakob2\Programing\C++ and C#\Shit\TestingConsole\TestingConsole\obj\Debug\TestingConsole.pdb
