@@ -14,6 +14,7 @@ namespace TestingConsole
             // Infi loop
             while (true)
             {
+                // This program will type 'Hello' into the console title
                 string title1 = "H";
                 string title2 = "He";
                 string title3 = "Hel";
